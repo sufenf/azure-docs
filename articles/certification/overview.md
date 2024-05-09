@@ -25,7 +25,7 @@ Edge Secured-core is a security certification for devices running a full operati
 5. Provides data in-transit protection
 6. Built-in security agent and hardening
 
-## User roles
+## User roles 
 
 The Edge Secured-core program serves two different audiences.
 
